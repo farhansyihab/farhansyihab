@@ -2,8 +2,6 @@ var serviceWorkerOption = {
   "assets": [
     "/bundle.js",
     "/manifest.json",
-    "/img/bundesliga.png",
-    "/img/soccer.ico",
     "/icons/bundesliga.png",
     "/icons/icon-144-144.png",
     "/icons/icon-192-192.png",
@@ -12,6 +10,8 @@ var serviceWorkerOption = {
     "/icons/icon-72-72.png",
     "/icons/icon-96-96.png",
     "/icons/soccer.ico",
+    "/img/bundesliga.png",
+    "/img/soccer.ico",
     "/index.html"
   ]
 };
